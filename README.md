@@ -123,7 +123,7 @@
           
             
             <li class="masthead__menu-item">
-              <a href="https://duryab-tariq.github.io/firstwebsite/CV.pdf" >CV</a>
+              <a href="CV.pdf" >CV</a>
             </li>
           
         </ul>
