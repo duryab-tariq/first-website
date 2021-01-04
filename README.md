@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Usama Sadiq</title>
+<!-- begin _includes/seo.html --><title>Azam Tariq/title>
 <meta name="description" content="Graduate Student Profile">
 
 
